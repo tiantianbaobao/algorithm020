@@ -8,6 +8,7 @@ package com.tiantianbaobao.algorithm.homework;
  */
 public class HomeWorkBootstrap {
     public static void main(String[] args) {
-
+        System.out.println("五毒神掌：chunk it up; deliberate practise; feedback");
+        System.out.println("最大误区：只做一遍");
     }
 }
