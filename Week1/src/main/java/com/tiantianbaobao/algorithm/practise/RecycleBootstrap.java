@@ -39,7 +39,10 @@ public class RecycleBootstrap {
     private static boolean _check(Node target) {
         Node slow = target;
         Node fast = target.tail;
-        while(slow != fast) {
+        if (slow == null || fast == null) {
+            return false;
+        }
+        while(slow.equals(fast)) {
             if (slow == null || fast == null) {
                 return false;
             }
