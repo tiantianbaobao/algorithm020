@@ -2,7 +2,7 @@ package com.tiantianbaobao.algorithm.practise;
 
 /***
  * @description check given target node {@link Node} has a recycle
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-16 15:32
  * @since V1.0.0
  */

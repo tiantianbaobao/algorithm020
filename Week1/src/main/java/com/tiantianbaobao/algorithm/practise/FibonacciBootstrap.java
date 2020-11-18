@@ -2,7 +2,7 @@ package com.tiantianbaobao.algorithm.practise;
 
 /***
  * @description {Fibonacci}  practise case
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-13 22:26
  * @since V1.0.0
  */

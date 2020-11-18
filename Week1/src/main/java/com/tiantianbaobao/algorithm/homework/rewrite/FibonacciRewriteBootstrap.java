@@ -2,7 +2,7 @@ package com.tiantianbaobao.algorithm.homework.rewrite;
 
 /***
  * @description {Fibonacci} rewrite twice bootstrap, <p>and current implement is best</p>
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-17 19:13
  * @since V1.0.0
  */

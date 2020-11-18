@@ -2,7 +2,7 @@ package com.tiantianbaobao.algorithm.practise;
 
 /***
  * @description look for the third huge humber from given array
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-16 18:21
  * @since V1.0.0
  */

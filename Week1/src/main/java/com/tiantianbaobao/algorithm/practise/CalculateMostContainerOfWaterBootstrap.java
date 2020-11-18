@@ -2,7 +2,7 @@ package com.tiantianbaobao.algorithm.practise;
 
 /***
  * @description calculate the most container of water from given choices
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-16 10:25
  * @since V1.0.0
  */

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /***
  * @description move zero to lasted location of geven params
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-17 19:35
  * @since V1.0.0
  */
