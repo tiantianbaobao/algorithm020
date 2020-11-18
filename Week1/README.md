@@ -16,3 +16,14 @@
 #### 启发性的数组问题的解决案
 - for loop ->常规的解题思路
 - <b>双指针（夹逼法）<b>，常见的题目如求最大的水容量、三数之和、两数之和、判断链表是否有环等，需要重点理解记忆这个方法思想 
+
+### java 中的高级数据结构
+- SkipList
+  - principle:利用升维的思想，将一维的数组升级为两维的数据结构，实现了`LinkedList`的时间复杂度为`O(logN)`的查询。利用多级索引数据，优化查询效率
+  - O():插入、查询 ->O(logN)
+- Stack
+- Queue
+  - PriorityQueue
+  - ConcurrentLinkedQueue
+  -
+- Deque

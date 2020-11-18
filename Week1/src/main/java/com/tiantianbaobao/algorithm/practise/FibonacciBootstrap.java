@@ -11,7 +11,7 @@ public class FibonacciBootstrap {
         long start = System.nanoTime();
 //        long result = _defaultCalculateFibonacci(10);
 //        long result = _memoryCalculateFibonacci(10000);
-        long result = _bestCalculateFibonacci(1000000000);
+        long result = _bestCalculateFibonacci(6);
         System.out.println("calculate fibonacci method and result is : "
                 + result
                 + ", and cast "
