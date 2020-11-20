@@ -1,7 +1,5 @@
-package com.tiantianbaobao.algorithm.homework.product;
+package com.tiantianbaobao.algorithm.homework.rewrite;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.Stack;
 /***
  * @description sloping windows
