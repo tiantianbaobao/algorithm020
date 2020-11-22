@@ -4,7 +4,7 @@ import java.util.*;
 
 /***
  * @description remove repeated from given params
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-18 22:44
  * @since V1.0.0
  */

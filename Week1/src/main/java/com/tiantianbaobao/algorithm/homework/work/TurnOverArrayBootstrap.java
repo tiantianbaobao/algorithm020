@@ -1,11 +1,10 @@
 package com.tiantianbaobao.algorithm.homework.work;
 
 import java.util.Arrays;
-import java.util.Stack;
 
 /***
  * @description turn over array by k step
- * @author <h>cuitao@aixuexi.com</h>
+ * @author <h>tiantianbaobao</h>
  * @date 2020-11-18 23:07
  * @since V1.0.0
  */
@@ -23,7 +22,26 @@ public class TurnOverArrayBootstrap {
      * @return after result
      */
     private static int[] _turnOverArrayByK(int[] params, int k) {
+            k %= params.length;
+            reverse(params, 0, params.length - 1);
+            reverse(params, 0, k - 1);
+            reverse(params, k, params.length - 1);
+            return params;
+    }
 
-        return params;
+    /***
+     *
+     * @param params
+     * @param start
+     * @param end
+     */
+    public static void reverse(int[] params, int start, int end) {
+        while (start < end) {
+            int temp = params[start];
+            params[start] = params[end];
+            params[end] = temp;
+            start++;
+            end--;
+        }
     }
 }
