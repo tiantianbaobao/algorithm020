@@ -110,3 +110,9 @@ public int binarySearch(int[] array, int target) {
 }
 ```
 
+- dfs和bfs的力扣题目汇总
+    -  层序遍历的一些变种题目：
+        - LeetCode 103. Binary Tree Zigzag Level Order Traversal 之字形层序遍历
+        - LeetCode 199. Binary Tree Right Side View 找每一层的最右结点
+        - LeetCode 515. Find Largest Value in Each Tree Row 计算每一层的最大值
+        - LeetCode 637. Average of Levels in Binary Tree 计算每一层的平均值
