@@ -10,14 +10,14 @@ public class TrieBootstrap {
     public static void main(String[] args) {
         Trie trie = new Trie();
         trie.insertWord("hello");
-        trie.insertWord("world");
-        trie.insertWord("i");
-        trie.insertWord("am");
-        trie.insertWord("jack");
-
+//        trie.insertWord("world");
+//        trie.insertWord("i");
+//        trie.insertWord("am");
+//        trie.insertWord("jack");
+//
         System.err.println("has rose ? " + trie.findWord("rose"));
         System.err.println("has jack ? " + trie.findWord("jack"));
-        System.err.println("start with ro ? " + trie.startWithPre("ro"));
-        System.err.println("start with ja ? " + trie.startWithPre("ja"));
+        System.err.println("start with hel ? " + trie.startWithPre("hel"));
+        System.err.println("start with llo ? " + trie.startWithPre("llo"));
     }
 }

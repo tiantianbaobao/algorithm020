@@ -64,4 +64,7 @@ public class Trie {
         TrieNode node = search(pre);
         return node != null;
     }
+    public TrieNode getRoot(){
+        return this.root;
+    }
 }
